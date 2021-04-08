@@ -19,4 +19,4 @@
 
 小赵决定利用假期，自己到八大古都参观游览。从桂林出发，她规划了自己的行程路线以及出行方式、停留时间。
 
-[作业三链接](http://sulilil.github.io/geo_lines_background.html)
+[作业三链接](sulilil.github.io/geo_lines_background.html)
